@@ -82,5 +82,5 @@ The AI-Based Recommendation System follows a **modular client-server architectur
 * **Online Learning**: Suggesting courses or materials to learners based on their activity.
 * **Social Platforms**: Recommending friends, groups, or posts.
 
-
+![Image](https://github.com/user-attachments/assets/408a45a8-4792-4636-b94d-4b7a52627b21)
 
